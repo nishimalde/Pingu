@@ -1,3 +1,4 @@
 # Pingu
 Hi this is my first GitHub tutorial
-I am Pingu
+This is Pingu
+I am making changes
